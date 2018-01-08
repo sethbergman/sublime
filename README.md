@@ -1,5 +1,7 @@
 # Sublime
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/sublime.svg)](https://greenkeeper.io/)
+
 html5 theme with a node / express server
 
 --------------------------------------------------------------------------------
