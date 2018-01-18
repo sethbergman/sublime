@@ -11,8 +11,8 @@ app.use('/assets', express.static(__dirname + '/assets'))
 
 // app.use('/assets', express.static(__dirname + '/assets/fonts'))
 // app.use('/assets', express.static(__dirname + '/assets/img'))
-app.use('/css', express.static(__dirname + '/css'))
-app.use('js', express.static(__dirname + '/js'))
+// app.use('/css', express.static(__dirname + '/css'))
+// app.use('js', express.static(__dirname + '/js'))
 app.use(bodyParser.urlencoded({
 	extended: false
 }))
