@@ -38,5 +38,8 @@ npm start
 
 [sublime.npmstack.com](//sublime.npmstack.com)
 
-
-[![GitHub forks](https://img.shields.io/github/forks/sethbergman/sublime.svg?style=social&label=Fork)](https://github.com/sethbergman/sublime) [![GitHub stars](https://img.shields.io/github/stars/sethbergman/sublime.svg?style=social&label=Star)](https://github.com/sethbergman/sublime) [![GitHub watchers](https://img.shields.io/github/watchers/sethbergman/sublime.svg?style=social&label=Watch)](https://github.com/sethbergman/sublime) [![GitHub followers](https://img.shields.io/github/followers/sethbergman.svg?style=social&label=Follow)](https://github.com/sethbergman/sublime) [![Twitter Follow](https://img.shields.io/twitter/follow/seth_bergman.svg?style=social)](https://twitter.com/seth_bergman)
+[![GitHub forks](https://img.shields.io/github/forks/sethbergman/sublime.svg?style=social&label=Fork)](https://github.com/sethbergman/sublime)
+[![GitHub stars](https://img.shields.io/github/stars/sethbergman/sublime.svg?style=social&label=Stars)](https://github.com/sethbergman/sublime)
+[![GitHub watchers](https://img.shields.io/github/watchers/sethbergman/sublime.svg?style=social&label=Watch)](https://github.com/sethbergman/sublime)
+[![GitHub followers](https://img.shields.io/github/followers/sethbergman.svg?style=social&label=Follow)](https://github.com/sethbergman)
+[![Twitter Follow](https://img.shields.io/twitter/follow/seth_bergman.svg?style=social&label=Follow)](https://twitter.com/seth_bergman)
