@@ -1,7 +1,5 @@
 const express = require('express')
 const bodyParser = require('body-parser')
-const $ = require('jquery')
-const http = require('http')
 const app = express()
 
 app.engine('html', require('ejs').renderFile)
@@ -9,10 +7,6 @@ app.set('/views', express.static(__dirname + '/views'))
 app.set('view engine', 'html')
 app.use('/assets', express.static(__dirname + '/assets'))
 
-// app.use('/assets', express.static(__dirname + '/assets/fonts'))
-// app.use('/assets', express.static(__dirname + '/assets/img'))
-// app.use('/css', express.static(__dirname + '/css'))
-// app.use('js', express.static(__dirname + '/js'))
 app.use(bodyParser.urlencoded({
 	extended: false
 }))
