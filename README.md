@@ -4,7 +4,7 @@ html5 theme built on node.js with an express server
 
 --------------------------------------------------------------------------------
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/sublime.svg)](https://greenkeeper.io/) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/sublime.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/sethbergman/sublime.svg?branch=master)](https://travis-ci.org/sethbergman/sublime)
 [ ![Codeship Status for sethbergman/sublime](https://app.codeship.com/projects/f0264f50-de5a-0135-fb77-3a73794eed9d/status?branch=master)](https://app.codeship.com/projects/266140)
 
