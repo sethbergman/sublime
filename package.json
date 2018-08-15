@@ -16,7 +16,7 @@
     "html5",
     "express"
   ],
-  "author": "Seth Bergman",
+  "author": "Seth Bergman <seth.atxwebs@gmail.com>",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/sethbergman/sublime/issues"
