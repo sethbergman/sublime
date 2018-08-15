@@ -15,7 +15,7 @@ html5 theme built on node.js with an express server
 
 ### Setup
 
-```
+```sh
 git clone https://github.com/sethbergman/sublime.git && cd sublime
 ```
 
@@ -28,7 +28,7 @@ yarn
 
 ### Start the app
 
-```
+```sh
 npm start
 ```
 
