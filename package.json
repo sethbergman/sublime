@@ -5,11 +5,11 @@
   "main": "server.js",
   "scripts": {
     "test": "sh test/index.test.sh",
-    "start": "node server.js"
+    "start": "node server"
   },
   "engines": {
-    "node": "8.9.4",
-    "npm": "5.6.0"
+    "node": ">=10.8.0",
+    "npm": ">=6.3.0"
   },
   "repository": "git+https://github.com/sethbergman/sublime.git",
   "keywords": [
